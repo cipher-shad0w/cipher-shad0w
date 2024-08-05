@@ -12,7 +12,7 @@
 
  🔭 I’m currently working on **a marketplace**
 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Swift, Flask, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/cipher-shad0w/cipher-shad0w/issues)**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,pygame,streamlit,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,flask,swift,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=c#,java,mysql,html,css,figma" /><br>
 </div>
 
