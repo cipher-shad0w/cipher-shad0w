@@ -10,11 +10,11 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a studing app for students**
 
- 🌱 I’m currently learning **Swift, Flask, AWS**
+ 🌱 I’m currently learning **Flask, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/cipher-shad0w/cipher-shad0w/issues)**
+💬 Ask me about **Python, Unity, Firebase... or anything [here](https://github.com/cipher-shad0w/cipher-shad0w/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -44,26 +44,9 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cipher-shad0w/cipher-shad0w/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-cipher-shad0w.vercel.app/?user=cipher-shad0w&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-cipher-shad0w.vercel.app/api?username=cipher-shad0w&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-cipher-shad0w.vercel.app/api/top-langs/?username=cipher-shad0w&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
 
 <hr/>
 
