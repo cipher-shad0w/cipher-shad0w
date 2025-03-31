@@ -2,6 +2,9 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jannis+Krija!;" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cipher-shad0w&theme=nord&rank_icon=github&custom_title=Stats&show_icons=true&hide_title=true)
+
 </h1>
 
 <h3 align="center">A passionate software developer from Germany 🇩🇪</h3>
@@ -29,5 +32,4 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cipher-shad0w&theme=nord&rank_icon=github&custom_title=Stats&show_icons=true)
 </div>
