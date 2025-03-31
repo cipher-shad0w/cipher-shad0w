@@ -16,8 +16,6 @@
 
 💬 Ask me about **Python, Unity, Firebase... or anything [here](https://github.com/cipher-shad0w/cipher-shad0w/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
 
  <hr/>
@@ -28,8 +26,6 @@
     <img src="https://skillicons.dev/icons?i=python,flask,swift,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=c#,java,mysql,html,css,figma" /><br>
 </div>
-
-<hr/>
 
 <div align="center">
 
