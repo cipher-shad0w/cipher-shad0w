@@ -28,3 +28,10 @@
     <img src="https://skillicons.dev/icons?i=python,flask,swift,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=c#,java,mysql,html,css,figma" /><br>
 </div>
+
+<hr/>
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cipher-shad0w&theme=nord&rank_icon=github&custom_title=Stats&show_icons=true)
+</div>
