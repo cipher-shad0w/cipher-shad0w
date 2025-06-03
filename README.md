@@ -34,10 +34,13 @@ Scaling AI services, improving OCR accuracy, building smarter recommendation sys
 ## 💻 Tech Stack
 
 <p align="center">
-  <!-- Core Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+
+  <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white" />
@@ -72,7 +75,7 @@ Scaling AI services, improving OCR accuracy, building smarter recommendation sys
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white" />
 
-  <!-- Other -->
+  <!-- Other Tools -->
   <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white" />
