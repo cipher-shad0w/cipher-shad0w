@@ -25,7 +25,7 @@ TSX          0 hrs 24 mins   █▓░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-## 💫 About Me
+## 👤 About Me
 
 Hey, I’m Jannis — a full-stack developer, AI enthusiast, and cloud tinkerer based in Berlin 🇩🇪.  
 With over 7 years of programming experience, I love building things that combine speed, simplicity, and intelligence.  
@@ -96,4 +96,4 @@ I’d love to contribute to:
 
 ---
 
-*Built with heart, deployed with containers.* 🐳
+🤍*Built with heart, deployed with containers.* 🐳
