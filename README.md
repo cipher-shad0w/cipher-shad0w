@@ -9,6 +9,19 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 July 2025 - To: 15 July 2025
+
+Total Time: 6 hrs 10 mins
+
+Python       1 hrs 40 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+CSS          1 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+Html         1 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+YAML         0 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+TSX          0 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 💫 About Me
