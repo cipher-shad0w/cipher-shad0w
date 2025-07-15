@@ -24,73 +24,76 @@ TSX          0 hrs 24 mins   █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+
 ## 💫 About Me
 
-🛠️ I’m currently working on  
-An AI-powered backend for a recipe app with OCR and smart pantry management (FastAPI + Supabase)  
+Hey, I’m Jannis — a full-stack developer, AI enthusiast, and cloud tinkerer based in Berlin 🇩🇪.  
+With over 7 years of programming experience, I love building things that combine speed, simplicity, and intelligence.  
+Currently, I’m working on a mobile audio platform with transcription and AI-powered processing on GCP, while leading the backend development in FastAPI.
 
-🤝 I’m looking to collaborate on  
-Open-source projects involving NLP, FastAPI, or AI-driven language tools (e.g., grammar checkers)  
+What drives me is **creating tools that save people time** — whether it’s automating boring stuff, building productivity apps, or making AI feel seamless.
 
-🌱 I’m currently learning  
-Fine-tuning language models, efficient database queries (SQL, Supabase), scalable app backend architecture  
-
-💬 Ask me about  
-FastAPI, Supabase, tmux setups, AI tool development, efficient backend workflows  
-
-🤔 I’m looking for help with  
-Scaling AI services, improving OCR accuracy, building smarter recommendation systems  
+🛠️ I build with precision. I ship with care. I learn fast and iterate faster.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+### 👨‍💻 Languages
+- **Python** – my go-to for backend, AI, and automation (7+ years)
+- **Swift** – iOS app development using SwiftUI & AVFoundation
+- **Java** – strong OOP foundation, used in early education and tooling
+- **HTML/CSS** – UI structuring for web-based tools and dashboards
+- **SQL** – relational DBs with PostgreSQL, Supabase, Firebase
+- **C#** – built accounting tools and learned LINQ/OOP patterns
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" />
+### ⚙️ Backend
+- **FastAPI** – high-performance Python backend APIs with async support
+- **JWT, OAuth2** – secure authentication systems
+- **SQLAlchemy + Alembic** – DB migrations and ORM
+- **Pandas, NumPy** – data transformation and processing
+- **Whisper, Groq API** – AI-driven audio transcription and summarization
 
-  <!-- Hosting & Deployment -->
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
+### 📱 Mobile & UI
+- **SwiftUI** – native iOS UI development
+- **AVFoundation** – high-quality audio recording/playback
+- **URLSession / Alamofire** – network communication
+- **PyQt6 / CustomTkinter** – desktop GUIs for tools and automation
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+### ☁️ Cloud & DevOps
+- **Google Cloud Platform (GCP)** – Cloud Run, GCS, Artifact Registry
+- **Docker** – containerized deployment and development
+- **GitHub Actions** – CI/CD workflows for testing and deployment
+- **Discord Webhooks** – real-time status updates for team CI/CD
+- **Kubernetes (basics)** – orchestration concepts & experimentation
 
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white" />
+### 🧰 Tools & Workflow
+- **Neovim + tmux** – terminal-first productivity setup
+- **VSCode + Jupyter** – notebooks and structured backend work
+- **Git, GitHub, Jira** – version control and agile tracking
+- **Notion, Home Assistant, Bitwarden** – daily ops and automation
 
-  <!-- Tools & Design -->
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
+---
 
-  <!-- DevOps & Git -->
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white" />
+## 🔍 I’m Currently Working On
+- 🎙️ An iOS app for audio recording with AI transcription (Swift + GCP)
+- 🧾 A time tracker app for freelancers with exportable invoices
 
-  <!-- Other Tools -->
-  <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi" />
-  <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black" />
-</p>
+---
+
+## 🤝 Let’s Collaborate!
+I’d love to contribute to:
+- FastAPI/NLP projects
+- Open-source productivity tools
+- Cloud-native backend platforms
+
+---
+
+## 📫 How to Reach Me
+- **Mail:** jannis@krija.info
+- **LinkedIn:** [linkedin.com/in/jannis-krija](https://linkedin.com/in/jannis-krija)
+- **GitHub:** [github.com/cipher-shad0w](https://github.com/cipher-shad0w)
+
+---
+
+*Built with heart, deployed with containers.* 🐳
