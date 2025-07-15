@@ -8,9 +8,11 @@
 
 ---
 
-<h1 align="center">
-  <a href="https://www.krija.info">Portfolio Website</a>
-</h1>
+<h3 align="center">
+  <a href="https://www.krija.info">
+    Portfolio Website Link
+  </a>
+</h3>
 
 <!--START_SECTION:waka-->
 
