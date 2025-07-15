@@ -13,6 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakapi.dev/api
           REPOSITORY: cipher-shad0w/cipher-shad0w
           SHOW_TITLE: true
           SECTION_NAME: waka
