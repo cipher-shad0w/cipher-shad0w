@@ -8,9 +8,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipher-shad0w&theme=nord&rank_icon=github&custom_title=Stats&show_icons=true&hide_title=true" alt="GitHub Stats" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 💫 About Me
 
