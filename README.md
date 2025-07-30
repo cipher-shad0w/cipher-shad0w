@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2025 - To: 28 July 2025
+From: 23 July 2025 - To: 30 July 2025
 
-Total Time: 10 hrs 45 mins
+Total Time: 14 hrs 48 mins
 
-Swift       3 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.98 %
-Unknown     2 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.61 %
-Python      2 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
-Markdown    0 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Hyprlang    0 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Swift       4 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.31 %
+Python      3 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+Unknown     3 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+Markdown    0 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+YAML        0 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 ```
 
 <!--END_SECTION:waka-->
