@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2025 - To: 02 August 2025
+From: 28 July 2025 - To: 04 August 2025
 
-Total Time: 13 hrs 8 mins
+Total Time: 12 hrs 50 mins
 
-Swift      3 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   27.34 %
-Python     2 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-Bash       1 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Unknown    1 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-Docker     1 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Swift      3 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   27.99 %
+Python     2 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+Bash       1 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Unknown    1 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Docker     1 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
 ```
 
 <!--END_SECTION:waka-->
