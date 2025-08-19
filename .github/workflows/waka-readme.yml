@@ -1,4 +1,10 @@
-name: Waka Readme
+name: Wjobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: cipher-shad0w/waka-readme@master
+        if: ${{ secrets.WORKING == 'true' }}dme
 
 on:
   workflow_dispatch:
