@@ -10,22 +10,22 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
   if: ${{ secrets.WORKING == 'true' }}
-    steps:
-      - uses: cipher-shad0w/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakapi.dev/api
-          REPOSITORY: cipher-shad0w/cipher-shad0w
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          BLOCKS: ░▒▓█
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 5
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          STOP_AT_OTHER: false
-          TARGET_BRANCH: main
-          TARGET_PATH: README.md
-          COMMIT_MESSAGE: Updated waka-readme stats for the week
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
+  steps:
+    - uses: cipher-shad0w/waka-readme@master
+      with:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        API_BASE_URL: https://wakapi.dev/api
+        REPOSITORY: cipher-shad0w/cipher-shad0w
+        SHOW_TITLE: true
+        SECTION_NAME: waka
+        BLOCKS: ░▒▓█
+        TIME_RANGE: last_7_days
+        LANG_COUNT: 5
+        SHOW_TIME: true
+        SHOW_TOTAL: true
+        STOP_AT_OTHER: false
+        TARGET_BRANCH: main
+        TARGET_PATH: README.md
+        COMMIT_MESSAGE: Updated waka-readme stats for the week
+        COMMITTER_NAME: GitHubActionBot
+        COMMITTER_EMAIL: action-bot@github.com
