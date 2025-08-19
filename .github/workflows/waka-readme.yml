@@ -9,7 +9,7 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-  if: ${{ secrets.WORKING == 'true' }}
+  if: secrets.WORKING == 'true'
   steps:
     - uses: cipher-shad0w/waka-readme@master
       with:
