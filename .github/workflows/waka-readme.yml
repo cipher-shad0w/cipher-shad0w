@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: cipher-shad0w/waka-readme@master
-        if: ${{ secrets.WORKING == 'true' }}
+        if: ${{ vars.WORKING == 'true' }}
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakapi.dev/api
