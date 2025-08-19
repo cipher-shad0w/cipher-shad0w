@@ -16,18 +16,6 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 12 August 2025 - To: 19 August 2025
-
-Total Time: 15 hrs 42 mins
-
-Swift        8 hrs 43 mins   ██████████████░░░░░░░░░░░   55.58 %
-Python       4 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   27.86 %
-Markdown     1 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-Unknown      0 hrs 54 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Bash         0 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-```
-
 <!--END_SECTION:waka-->
 
 
