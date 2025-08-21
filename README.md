@@ -22,7 +22,7 @@
 ## 👤 About Me
 
 Hey, I’m Jannis — a backend developer, AI enthusiast, and cloud tinkerer based in Berlin 🇩🇪.  
-With over 5 years of programming experience, I love building things that combine speed, simplicity, and intelligence.  
+With over 7 years of programming experience, I love building things that combine speed, simplicity, and intelligence.  
 Currently, I’m working on a mobile audio platform with transcription and AI-powered processing on GCP, while leading the backend development in FastAPI.
 
 What drives me is **creating tools that save people time** — whether it’s automating boring stuff, building productivity apps, or making AI feel seamless.
