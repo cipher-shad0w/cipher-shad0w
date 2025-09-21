@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 21 September 2025
+Last 30 Days of Coding
 
 Total Time: 101 hrs 50 mins
 
