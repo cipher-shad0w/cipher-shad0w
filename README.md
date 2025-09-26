@@ -19,12 +19,12 @@
 ```txt
 Last 30 Days of Coding
 
-Total Time: 99 hrs 24 mins
+Total Time: 99 hrs 38 mins
 
-Swift      77 hrs 48 mins  ███████████████████▓░░░░░   78.27 %
-Markdown   11 hrs 6 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-Unknown    7 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Python     1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Swift      77 hrs 44 mins  ███████████████████▓░░░░░   78.01 %
+Markdown   11 hrs 6 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Unknown    7 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Python     1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 YAML       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
