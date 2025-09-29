@@ -21,7 +21,7 @@ Last 30 Days of Coding
 
 Total Time: 97 hrs 28 mins
 
-Swift      78 hrs 18 mins  ████████████████████░░░░░   80.34 %
+Swift      78 hrs 18 mins  ████████████████████░░░░░   80.35 %
 Markdown   10 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
 Unknown    6 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 Python     1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
