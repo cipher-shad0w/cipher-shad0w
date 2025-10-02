@@ -14,6 +14,9 @@
   </a>
 </h3>
 
+<table align="center">
+  <tr>
+    <td>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -29,6 +32,13 @@ Bash       32 mins         ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+  </td>
+  <td>
+    <a href="https://github.com/cipher-shad0w">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cipher-shad0w&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox"/>
+  </td>
+  </tr>
+</table>
 
 
 ## 👤 About Me
