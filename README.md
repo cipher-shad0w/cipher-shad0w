@@ -28,13 +28,13 @@
 ```txt
 Last 30 Days of Coding
 
-Total Time: 102 hrs 54 mins
+Total Time: 102 hrs 40 mins
 
-Swift      91 hrs 52 mins  ██████████████████████▒░░   89.30 %
-Markdown   6 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Swift      91 hrs 38 mins  ██████████████████████▒░░   89.27 %
+Markdown   6 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
 Unknown    2 hrs 40 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 Python     1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Bash       32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Bash       32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
